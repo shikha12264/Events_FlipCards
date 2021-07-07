@@ -1,0 +1,15 @@
+{
+  "name": "jokes-1",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [
+    "talks",
+    "react-patterns-practices"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "react-flipcard": "0.2.1",
+    "react-dom": "15.5.3",
+    "react": "15.5.3"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "jokes-1-forked",
+  "version": "0.0.11",
+  "description": null,
+  "keywords": [
+    "talks",
+    "react-patterns-practices"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "react-flipcard": "0.2.1",
+    "react-dom": "15.5.3",
+    "react": "15.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
